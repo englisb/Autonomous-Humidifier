@@ -2,7 +2,6 @@
 #include "DHT.h"          //humidity temerature sensor
 #include <Adafruit_GFX.h> //OLED library
 #include <Adafruit_SSD1306.h>
-#include <SPI.h>
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 32 // OLED display height, in pixels
