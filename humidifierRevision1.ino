@@ -1,4 +1,4 @@
-#include <Wire.h>         //makes pins work or something idk
+#include <Wire.h>         //enables i2c with gpio pins
 #include "DHT.h"          //humidity temerature sensor
 #include <Adafruit_GFX.h> //OLED library
 #include <Adafruit_SSD1306.h>
