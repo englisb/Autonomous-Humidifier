@@ -39,7 +39,7 @@ void loop() {
   }
   
   else {
-    display.println(F("Current humidity:"));
+    display.println(F("Current humidity: "));
     Serial.print(F("Current humidity: "));
     Serial.println(h);
     display.print(h);
